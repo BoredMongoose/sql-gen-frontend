@@ -1,7 +1,6 @@
 import styles from './index.module.css'
 import sqlLogo from './assets/sql-server.png'
 import { useState } from 'react'
-import generate from '../Server/generate' 
 
 
 function App() {
